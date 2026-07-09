@@ -1,0 +1,19 @@
+=======================================================
+        BIM Wall Name Validator
+=======================================================
+
+Loading IFC model...
+
+✔ IFC model loaded successfully.
+
+Total Walls Found : 1078
+
+Validating wall names...
+
+=======================================================
+✅ VALIDATION COMPLETED
+=======================================================
+
+All wall names are valid.
+
+Program Finished.
